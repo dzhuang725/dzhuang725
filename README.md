@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dennis Zhuang!
 
-🔭 I’m currently working on 
+🔭 I’m currently working on internal tools with `React`, `Node.js`, `MongoDB`
 
 🧰 I use `TypeScript`, `React`, `Node.js`, `MongoDB`, `TailwindCSS`
 
