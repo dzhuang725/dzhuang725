@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on internal tools with `React`, `Java`, `OracleDB`
 
-🧰 I use `TypeScript`, `React`, `Node.js`, `MongoDB`, `TailwindCSS`
+🧰 I use `React`, `TypeScript`, `Java`, `Spring Boot`, `OracleDB`, `Jenkins`
 
 ⏮️ Previously also worked with: `Swift`, `C++`, `PostgreSQL`
 
