@@ -1,12 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dennis Zhuang!
 
-🔭 I’m currently working on internal tools with `React`, `Java`, `OracleDB`
+🔭 I’m currently studying AI & ML at Drexel Universty
 
 🧰 I use `React`, `TypeScript`, `Java`, `Spring Boot`, `OracleDB`, `Jenkins`
 
 ⏮️ Previously also worked with: `Swift`, `C++`, `PostgreSQL`
 
-🌱 I’m currently learning `Next.js` `Python`
+🌱 I’m currently learning  `Python`
 
 📫 How to reach me: `wzhuang.work@gmail.com`
 
