@@ -1,12 +1,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dennis Zhuang!
 
+:a: Joining Adobe as Software Engineer Intern Summer 2026
+
 🔭 I’m currently studying AI & ML at Drexel Universty
 
-🧰 I use `React`, `TypeScript`, `Java`, `Spring Boot`, `OracleDB`, `Jenkins`
+🧰 I use `React`, `TypeScript`, `Python`, `Java`,
 
 ⏮️ Previously also worked with: `Swift`, `C++`, `PostgreSQL`
 
-🌱 I’m currently learning  `Python`
+🌱 I’m currently learning `React Native`
 
 📫 How to reach me: `wzhuang.work@gmail.com`
 
